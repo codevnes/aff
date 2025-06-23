@@ -119,17 +119,7 @@ class AFF_Ajax_Admin
 
 		}
 
-	public function aff_export_excel_payment()
-		{
-		include AFF_PATH . 'helpers/excel/payment.php';
-		die();
-		}
 
-	public function aff_export_excel_income()
-		{
-		include AFF_PATH . 'helpers/excel/income.php';
-		die();
-		}
 
 	private function checkPermissionAdmin()
 		{

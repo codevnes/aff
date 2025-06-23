@@ -22,7 +22,7 @@
  * @link       https://vuacode.io
  * @since      1.0.0
  *
- * @package    WP_VuaCode_AFF
+ * @package    WP_AFF_Pro
  */
 
 // If uninstall not called from WordPress, then exit.
